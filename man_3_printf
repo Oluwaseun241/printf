@@ -1,4 +1,4 @@
-.TH man 3 "20 November 2022" "0.10" "_printf man page"
+.TH _PRINTF "15 April 2022" "Linux Programmer's manual"
 .SH NAME
 .B _printf
 - Formatted output conversion.
@@ -66,4 +66,4 @@ _printf("%s, %s %d, %d\\n", weekday, month, day, year);
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Oluwaseun Tanimola, Jane Doe
+  Leila Yesufu and Abdulsamad Jimoh
