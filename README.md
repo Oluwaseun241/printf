@@ -1,3 +1,3 @@
 # Group Project
-
-## This is our group project repo
+## Contents
+* This is our group project repo
